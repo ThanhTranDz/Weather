@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ThanhTranDz/Weather/static/css/main.a1bf6098.css",
-    "main.js": "/ThanhTranDz/Weather/static/js/main.17317c3a.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/ThanhTranDz/Weather/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/logo.svg": "/ThanhTranDz/Weather/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ThanhTranDz/Weather/index.html",
-    "main.a1bf6098.css.map": "/ThanhTranDz/Weather/static/css/main.a1bf6098.css.map",
-    "main.17317c3a.js.map": "/ThanhTranDz/Weather/static/js/main.17317c3a.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/ThanhTranDz/Weather/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/Weather/static/css/main.a1bf6098.css",
+    "main.js": "/Weather/static/js/main.c904737a.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/Weather/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/logo.svg": "/Weather/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Weather/index.html",
+    "main.a1bf6098.css.map": "/Weather/static/css/main.a1bf6098.css.map",
+    "main.c904737a.js.map": "/Weather/static/js/main.c904737a.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/Weather/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1bf6098.css",
-    "static/js/main.17317c3a.js"
+    "static/js/main.c904737a.js"
   ]
 }
